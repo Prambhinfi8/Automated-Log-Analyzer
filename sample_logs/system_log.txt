@@ -1,0 +1,5 @@
+Apr 10 14:00:00 systemd[1]: Started backup service.
+Apr 10 14:01:21 kernel: warning: CPU temperature exceeding threshold
+Apr 10 14:03:33 systemd[1]: error: backup service crashed mid-operation
+Apr 10 14:04:40 udevd[4000]: warning: USB device malfunction detected
+

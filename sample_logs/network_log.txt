@@ -1,0 +1,5 @@
+Apr 10 13:00:01 NetworkManager[3000]: warning: network unreachable
+Apr 10 13:02:11 systemd-networkd[3010]: error: interface eth0 down unexpectedly
+Apr 10 13:03:15 firewall[3020]: unauthorized port scan attempt blocked
+Apr 10 13:04:18 dnsmasq[3030]: error: failed to resolve DNS request for example.com
+

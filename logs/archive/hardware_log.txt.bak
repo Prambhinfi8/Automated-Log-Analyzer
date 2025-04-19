@@ -1,0 +1,5 @@
+Apr 10 15:00:01 kernel: warning: CPU overheating detected on core 2
+Apr 10 15:01:45 kernel: error: disk read failure on /dev/sdb
+Apr 10 15:02:30 udevd[4500]: warning: unrecognized USB device connected
+Apr 10 15:03:10 smartd[4600]: error: SMART status check failed on /dev/sda
+

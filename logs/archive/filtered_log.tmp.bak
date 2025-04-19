@@ -1,0 +1,1 @@
+echo "Hello" | mailx -s "Test Email" -A mail.rc 12302080601010@adit.ac.in

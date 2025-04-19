@@ -1,0 +1,6 @@
+Apr 10 09:00:01 systemd[1]: Started Session 1 of user student.
+Apr 10 09:01:22 kernel: warning: low disk space on /dev/sda1
+Apr 10 09:02:45 gdm3: error: failed to start display manager
+Apr 10 09:03:00 systemd[1]: error: service xyz crashed unexpectedly
+Apr 10 09:04:17 kernel: segfault at 00007ff... rip ...
+

@@ -1,0 +1,5 @@
+Apr 10 12:00:00 crashreport[2001]: error: application abc crashed due to segmentation fault
+Apr 10 12:01:45 kernel: segfault at 0000000000000000 rip 0000000000401234 rsp 00007ffc12345678
+Apr 10 12:02:00 crashreport[2002]: error: core dumped from xyz process
+Apr 10 12:03:22 gdm3: error: unable to recover from crash, restarting display manager
+

@@ -1,0 +1,5 @@
+Apr 10 11:00:01 audit[1010]: Unauthorized access attempt to restricted file /etc/shadow
+Apr 10 11:01:12 audit[1020]: User root escalated privileges using sudo
+Apr 10 11:03:05 systemd[1]: warning: user attempted to disable firewall
+Apr 10 11:05:40 sshd[1500]: error: multiple failed login attempts detected
+

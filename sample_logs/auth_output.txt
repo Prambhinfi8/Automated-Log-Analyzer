@@ -1,0 +1,11 @@
+[0;36m==== Log Analysis Report ====[0m
+📅 Date: 2025-04-10 06:06:22
+🗂️  File Analyzed: filtered_log.tmp
+------------------------------------
+
+[0;32m📊 Top 5 Frequent Log Messages:[0m
+      1 Unauthorized login attempt detected 
+      1 Failed password for root from 192.168.1.11 port 54322 ssh2 
+      1 Failed password for invalid user admin from 192.168.1.10 port 54321 ssh2 
+[0;36m📁 Archived log file to logs/archive/filtered_log.tmp.bak[0m
+[0;32m📈 HTML report saved to: filtered_log_report.html[0m

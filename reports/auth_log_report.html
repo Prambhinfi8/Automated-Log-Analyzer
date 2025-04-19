@@ -1,0 +1,23 @@
+<html>
+<head><title>Log Report - sample_logs/auth_log.txt</title></head>
+<body style="font-family: Arial; background:#111; color:#eee;">
+<h2>📝 Log Analysis Report</h2>
+<p><strong>Date:</strong> Tue Apr 15 09:20:08 UTC 2025</p>
+<p><strong>File:</strong> sample_logs/auth_log.txt</p>
+<hr>
+<ul>
+  <li>🔴 Errors: 0</li>
+  <li>🟠 Warnings: 0</li>
+  <li>🔐 Failed Logins: 2</li>
+  <li>⛔ Unauthorized: 1</li>
+  <li>💥 Crashes: 0</li>
+</ul>
+<h3>📊 Top 5 Frequent Log Messages:</h3>
+<pre>      1    sshd[1237]: Unauthorized login attempt detected
+      1    sshd[1235]: Failed password for root from 192.168.1.11 port 54322 ssh2
+      1    sshd[1234]: Failed password for invalid user admin from 192.168.1.10 port 54321 ssh2</pre>
+<h3>🔍 Detailed Matching Entries (First 10):</h3>
+<pre>Apr 10 08:21:01 sshd[1234]: Failed password for invalid user admin from 192.168.1.10 port 54321 ssh2
+Apr 10 08:22:17 sshd[1235]: Failed password for root from 192.168.1.11 port 54322 ssh2
+Apr 10 08:24:44 sshd[1237]: Unauthorized login attempt detected</pre>
+</body></html>

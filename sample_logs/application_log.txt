@@ -1,0 +1,5 @@
+Apr 10 16:00:00 apache2[5000]: error: unable to bind to port 80
+Apr 10 16:01:20 mysql[5100]: warning: skipped missing index on users table
+Apr 10 16:02:30 myapp[5200]: error: null pointer exception in module handler
+Apr 10 16:03:40 nodejs[5300]: warning: deprecated API usage in route config.js
+
