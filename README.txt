@@ -24,4 +24,3 @@ To run the analyzer daily at 9 AM:
 
 3. Save and exit.
 
-That's it!
